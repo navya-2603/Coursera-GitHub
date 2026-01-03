@@ -1,2 +1,2 @@
 # Coursera-GitHub
-Practicing coursera GitHub course
+Practicing Coursera GitHub course
